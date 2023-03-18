@@ -1,6 +1,6 @@
 # flow-free
 
-This is my submission for ***Project 3 of COMP20003 Algorithms and Data Structures in Sem 2 2022***. This program involves the implementation of a solver for the game Flow Free, a puzzle published by the professional puzzler Sam Loyd, in a column he wrote for the Brooklyn Daily Eagle in 1897. Some of the code is built upon the open-source terminal version made available by mzucker.
+This program involves the implementation of a solver for the game Flow Free, a puzzle published by the professional puzzler Sam Loyd, in a column he wrote for the Brooklyn Daily Eagle in 1897. Some of the code is built upon the open-source terminal version made available by mzucker.
 
 ## Overview
 
@@ -77,5 +77,5 @@ These numbers depend on the implementation of the search, the ordering you use, 
 5 total s 0.349 463,892
 ```
 
-
+*** Note: This is my submission for *Project 3 of COMP20003 Algorithms and Data Structures in Sem 2 2022*. ***
 
